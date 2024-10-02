@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="login">Login</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="edit_nfc_card">Edit NFC Card</string>
+    <string name="save">Save</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_card_name">Enter Card Name</string>
+
+    <!-- New Strings for the Card -->
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="job_label">Job</string>
+    <string name="linkedin_label">LinkedIn</string>
+
+    <!-- Content Descriptions for Accessibility -->
+    <string name="person_icon_description">Person icon</string>
+    <string name="email_icon_description">Email icon</string>
+    <string name="job_icon_description">Job icon</string>
+    <string name="linkedin_icon_description">LinkedIn icon</string>
+
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hint_job">Enter your job title</string>
+    <string name="hint_linkedin_profile">Enter your LinkedIn profile</string>
+    <string name="welcome_user">Welcome, %s</string>
+
+    <string name="sync_nfc_card">Sync NFC Card</string>"
+</resources>
